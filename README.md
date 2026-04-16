@@ -36,19 +36,19 @@ Currently seeking a **data/software engineering internship** where I can apply m
 ## Featured projects
 
 ### LibroStanza — Full-stack educational platform
-Full-stack educational streaming platform built in a team of 4. Features interactive live rooms, synchronized media playback (screen sharing / YouTube), user dashboards, and a bookstore marketplace with Stripe payment integration.
+Developed a full-stack educational streaming platform in a 4-person team; with interactive live rooms and synchronized media playback (screen sharing / YouTube) for all participants. Implemented user dashboards (usage time, recent rooms) and a bookstore marketplace with selling/renting and Stripe payment integration.
 
 ### Movie Recommendation System (Kaggle)
 Content-based recommendation model built in Python on 5M records. Predicts user ratings for unseen movies, optimized using RMSE with Kaggle-formatted output.
 
 ### Custom HTTP/1.1 Web Server
-HTTP/1.1 compliant web server written in C++98 from scratch. Supports concurrent connections via non-blocking I/O, multiplexing (select/poll/epoll), and CGI.
+Wrote an HTTP/1.1 compliant web server in C++98 from scratch, handling 95,564 successful transactions across 1,000 concurrent clients in 30 seconds with 100% availability and 0.31s average response time at 3,188 requests/sec.
 
 ### Unix Shell from Scratch
-Unix-like shell in C with command parsing, pipes, redirections, and job control.
+Implemented a fully functional Unix shell in C from scratch, supporting command history, PATH-based executable resolution, pipes, input/output redirections (including heredoc), environment variable expansion, $? exit status handling, single/double quote parsing, and all core builtins (echo, cd, pwd, export, unset, env, exit). Handles signals (ctrl-C, ctrl-D, ctrl-\) with bash-like behavior. Written with zero memory leaks in own code.
 
 ### Dockerized Production Infrastructure
-Docker-based infrastructure deploying Nginx, WordPress, and MariaDB to simulate a scalable production environment.
+System administration project designing and deploying a Docker-based infrastructure with Nginx, WordPress, and MariaDB to simulate a scalable production environment.
 
 ---
 
