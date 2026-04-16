@@ -43,13 +43,13 @@ Full-stack educational streaming platform built in a team of 4. Features interac
 ### Movie Recommendation System (Kaggle)
 Content-based recommendation model built in Python on 5M records. Predicts user ratings for unseen movies, optimized using RMSE with Kaggle-formatted output.
 
-### Webserv
+### Custom HTTP/1.1 Web Server
 HTTP/1.1 compliant web server written in C++98 from scratch. Supports concurrent connections via non-blocking I/O, multiplexing (select/poll/epoll), and CGI.
 
-### Minishell
+### Unix Shell from Scratch
 Unix-like shell in C with command parsing, pipes, redirections, and job control.
 
-### Inception
+### Dockerized Production Infrastructure
 Docker-based infrastructure deploying Nginx, WordPress, and MariaDB to simulate a scalable production environment.
 
 ---
