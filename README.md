@@ -39,7 +39,8 @@ Currently seeking a **data/software engineering internship** where I can apply m
 Developed a full-stack educational streaming platform in a 4-person team; with interactive live rooms and synchronized media playback (screen sharing / YouTube) for all participants. Implemented user dashboards (usage time, recent rooms) and a bookstore marketplace with selling/renting and Stripe payment integration.
 
 ### Movie Recommendation System (Kaggle)
-Content-based recommendation model built in Python on 5M records. Predicts user ratings for unseen movies, optimized using RMSE with Kaggle-formatted output.
+Built a content-based movie recommendation model in Python on 5M records, achieving an RMSE of 0.81 and ranking 48th out of 266 participants (top 17%)
+[Kaggle Profile](https://www.kaggle.com/oussamazouine)
 
 ### Custom HTTP/1.1 Web Server
 Wrote an HTTP/1.1 compliant web server in C++98 from scratch, handling 95,564 successful transactions across 1,000 concurrent clients in 30 seconds with 100% availability and 0.31s average response time at 3,188 requests/sec.
