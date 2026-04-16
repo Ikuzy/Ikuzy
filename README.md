@@ -3,8 +3,7 @@
 # Hi, I'm Oussama Zouine 👋
 
 **Software Engineering & Data Science Student**  
-📍 Morocco  |  🎓 1337 School (42 Network)  |  📊 ALX Africa Data Science Program
-
+📍 Morocco  |  🎓 1337 School (42 Network)
 ---
 
 ## About me
