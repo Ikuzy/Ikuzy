@@ -36,7 +36,7 @@ Currently seeking a **data/software engineering internship** where I can apply m
 ## Featured projects
 
 ### LibroStanza — Full-stack educational platform
-Developed a full-stack educational streaming platform in a 4-person team; with interactive live rooms and synchronized media playback (screen sharing / YouTube) for all participants. Implemented user dashboards (usage time, recent rooms) and a bookstore marketplace with selling/renting and Stripe payment integration.
+Developed a full-stack educational streaming platform in a 4-person team; with interactive live rooms and synchronized media playback (YouTube) for all participants. Implemented user dashboards (usage time, recent rooms) and a bookstore marketplace with selling/renting and Stripe payment integration.
 
 ### Movie Recommendation System (Kaggle)
 Built a content-based movie recommendation model in Python on 5M records, achieving an RMSE of 0.81 and ranking 48th out of 266 participants (top 17%)
